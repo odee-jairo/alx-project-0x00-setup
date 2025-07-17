@@ -3,7 +3,7 @@ import HOUSE_IMAGE from "@/public/assets/images/house.png"
 import STAR_IMAGE from "@/public/assets/images/star.png"
 import React from "react"
 import Pill from "./Pill"
-
+import Button from "./Button"
 
 const Card: React.FC = () => {
 
